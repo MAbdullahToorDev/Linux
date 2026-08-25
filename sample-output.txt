@@ -1,0 +1,36 @@
+=========================================
+       LINUX SERVER HEALTH REPORT        
+=========================================
+
+1. UPTIME & SYSTEM LOAD
+-----------------------------------------
+ 22:28:58 up  6:04,  1 user,  load average: 0.16, 0.28, 0.32
+
+2. MEMORY USAGE
+-----------------------------------------
+               total        used        free      shared  buff/cache   available
+Mem:           7.2Gi       4.4Gi       926Mi       352Mi       2.6Gi       2.8Gi
+Swap:          4.0Gi       435Mi       3.6Gi
+
+3. DISK SPACE USAGE
+-----------------------------------------
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/nvme0n1p2   98G   19G   75G  20% /
+
+4. TOP 3 CPU CONSUMING PROCESSES
+-----------------------------------------
+    PID USER     %CPU %MEM COMMAND
+  34889 toor     33.3  0.0 bash
+   6689 toor      8.3  1.5 chrome
+  16125 toor      8.2  5.5 chrome
+
+5. TOP 3 MEMORY CONSUMING PROCESSES
+-----------------------------------------
+    PID USER     %CPU %MEM COMMAND
+   6861 toor      3.4  7.8 chrome
+   6642 toor      3.3  7.6 chrome
+   9537 toor      2.5  6.5 chrome
+
+=========================================
+            REPORT COMPLETED             
+=========================================
