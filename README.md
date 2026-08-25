@@ -1,5 +1,3 @@
-# Day01-linux-process-monitoring
-
 # Day 01 — Linux Process Monitoring & Server Health
 
 > **Cloud Computing / DevOps Practical Lab — Day 01**
